@@ -2,14 +2,14 @@ import React from "react";
 
 const HeadlineCards = () => {
   return (
-    <div className="max-w-[1640px] mx-auto p-4 py-12 grid md:grid-cols-3 gap-6">
+    <div className="text-gray-100 max-w-[1640px] mx-auto my-6 p-4 py-12 grid md:grid-cols-3 gap-6">
       {/* Card */}
       <div className="rounded-xl relative">
         {/* Overlay */}
-        <div className="absolute w-full h-full bg-black/50 rounded-xl text-white">
-          <p className="font-bold text-2xl px-2 pt-4">Sun's Out, BOGO's Out</p>
+        <div className="absolute w-full h-full bg-black/50 rounded-xl">
+          <p className="font-bold text-2xl px-2 pt-4 ">Sun's Out, BOGO's Out</p>
           <p className="px-2">Grab Yours</p>
-          <button className="border-none bg-white text-black mx-2 absolute bottom-4 hover:bg-black hover:text-white duration-500">
+          <button className="border-none bg-gray-100 text-rose-900 mx-2 absolute bottom-4 hover:bg-rose-800 hover:text-rose-100 duration-500">
             Order Now
           </button>
         </div>
@@ -22,10 +22,10 @@ const HeadlineCards = () => {
       {/* Card */}
       <div className="rounded-xl relative">
         {/* Overlay */}
-        <div className="absolute w-full h-full bg-black/50 rounded-xl text-white">
-          <p className="font-bold text-2xl px-2 pt-4">New Bakeries</p>
+        <div className="absolute w-full h-full bg-black/50 rounded-xl">
+          <p className="font-bold text-2xl px-2 pt-4 ">New Bakeries</p>
           <p className="px-2">Added Daily</p>
-          <button className="border-none bg-white text-black mx-2 absolute bottom-4 hover:bg-black hover:text-white duration-500">
+          <button className="border-none bg-gray-100 text-rose-900 mx-2 absolute bottom-4 hover:bg-rose-800 hover:text-rose-100 duration-500">
             Order Now
           </button>
         </div>
@@ -38,10 +38,10 @@ const HeadlineCards = () => {
       {/* Card */}
       <div className="rounded-xl relative">
         {/* Overlay */}
-        <div className="absolute w-full h-full bg-black/50 rounded-xl text-white">
-          <p className="font-bold text-2xl px-2 pt-4">We Deliver Too</p>
+        <div className="absolute w-full h-full bg-black/50 rounded-xl">
+          <p className="font-bold text-2xl px-2 pt-4 ">We Deliver Too</p>
           <p className="px-2">Tasty Treats</p>
-          <button className="border-none bg-white text-black mx-2 absolute bottom-4 hover:bg-black hover:text-white duration-500">
+          <button className="border-none bg-gray-100 text-rose-900 mx-2 absolute bottom-4 hover:bg-rose-800 hover:text-rose-100 duration-500">
             Order Now
           </button>
         </div>
