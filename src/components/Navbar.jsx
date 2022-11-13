@@ -42,7 +42,7 @@ const Navbar = () => {
         />
       </div>
       {/* Cart button */}
-      <button className="border-none bg-rose-700 text-rose-200 hidden md:flex items-center py-2 rounded-full hover:bg-rose-100 hover:text-rose-800 transition-500">
+      <button className="border-none bg-rose-700 text-rose-200 hidden md:flex items-center py-2 rounded-full hover:bg-rose-100 hover:text-rose-800 hover:transition-500">
         <BsFillCartFill size={20} />
       </button>
 

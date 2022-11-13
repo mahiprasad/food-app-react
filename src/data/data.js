@@ -121,7 +121,7 @@ export const data = [
   },
   {
     id: 16,
-    name: "Mocktailsf",
+    name: "Mocktails",
     category: "drinks",
     image:
       "https://images.pexels.com/photos/6542764/pexels-photo-6542764.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
