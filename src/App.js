@@ -6,9 +6,13 @@ import Food from "./components/Food";
 import Category from "./components/Category";
 import Footer from "./components/Footer";
 
+import Timer from "./components/Timer";
+
 function App() {
   return (
     <div className="bg-gray-200">
+      <Timer />
+
       <Navbar />
       <Hero />
       <HeadlineCards />
