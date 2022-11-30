@@ -1,5 +1,9 @@
-# Getting Started with Create React App
+# immEats🍰
 
+<p>To view the deployment: <a href="https://mahiprasad.github.io/food-app-react/"> ⏩ </a></p>
+<hr>
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
